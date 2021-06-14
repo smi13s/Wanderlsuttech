@@ -3,27 +3,11 @@
     width: 200px;
 }
 
-.right {
-    float: right;
-}
-.right h1 {
-    color: white;
-}
   
 .image{
     background-image: url("./img/background1.jpeg");
     background-color: black;
     background-attachment: fixed;
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-}
-
-.image2{
-    background-image: url("./imgs/_DSC5964.jpg");
-    background-color: black;
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,9 +22,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background: rgba(0, 0, 0, 0.6);
-    width: 400px;
+    width: 80%;
     padding: 50px;
-    margin: 20px;
+    
 }
 
 #Name{
@@ -108,35 +92,6 @@ li a:hover {
 
 .copyRight {
     position: absolute;
+    bottom: -50%;
 
-}
-
-.Welcome{
-    margin: 30px;
-}
-
-.Job {
-    margin: 10px 10px 50px 20px;
-}
-
-
-/* Create three equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 15px;
-}
-  
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-  
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width:50%) {
-.column {
-    width: 100%;
-}
 }
