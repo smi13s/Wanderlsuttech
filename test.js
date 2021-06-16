@@ -1,4 +1,4 @@
-function passwd(){
+function password(){
 
     var password = prompt('Enter the password "AA####":');
     if(password.toLowerCase() == "teacher"){
