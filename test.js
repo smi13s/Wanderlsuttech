@@ -73,8 +73,8 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/77jdf6k2boxiwm3/AADS-obAAmnB0l5qtyUmKuHNa?dl=0",'_blank')    
       }
       
-      if(password.toLowerCase() == "cose"){
-        window.open("https://www.dropbox.com/sh/77jdf6k2boxiwm3/AADS-obAAmnB0l5qtyUmKuHNa?dl=0",'_blank')    
+      if(password.toLowerCase() == "ns0514"){
+        window.open("https://www.dropbox.com/sh/br10bf4ieccmhb8/AACTMKTv46qqgPVIcEZ7hWIba?dl=0",'_blank')    
       }
       
       
