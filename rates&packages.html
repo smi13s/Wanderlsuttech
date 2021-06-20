@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./test2.css" >
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<style>
+body{
+	background-image: url(./img/background1.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.columns {
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+}
+
+.price {
+  list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.price:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.price .header {
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+}
+
+.price li {
+  border-bottom: 2px solid;
+  padding: 20px;
+  text-align: center;
+  background-color: #eee;
+}
+
+.price .grey {
+  background-color: #eee;
+  font-size: 20px;
+}
+
+.button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+  .columns {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+    <h1 class="text-center" style="font-family: monospace;">WANDERLUST TECH</h1>
+
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <a class="navbar-brand" href="#"> </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+          <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="./rates&packages.html">Rates & Packages</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://wanderlusttech.com/contact-us">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./home.html">Home</a>
+          </li>   
+          
+          <li class="nav-item">
+            <a class="nav-link" onClick="passwd()">Client Portal</a>
+          </li>  
+          </ul>
+        </div>  
+        </nav>
+      
+
+<h2 style="text-align:center">Rates & Packages</h2>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Hourly</li>
+    <li class="grey">$199</li>
+    <li>Unlimited Photos</li>
+    <li>USB</li>
+    <li>no copyRight</li>
+    <li>Edits & Retouching</li>
+    <li>no copyRight</li>
+    <li class="grey"><a href="https://wanderlusttech.com/contact-us" class="button">Contact Us</a></li>
+  </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Photos only</li>
+    <li class="grey">$1,299</li>
+    <li>Full Event Coverage</li>
+    <li>1 Print-26x36</li>
+    <li>2-8x10</li>
+    <li>40-4x5</li>
+    <li>Album</li>
+    <li>Unlimited Photos</li>
+    <li>USB</li>
+    <li>no copyRight</li>
+    <li class="grey"><a href="https://wanderlusttech.com/contact-us" class="button">Contact Us</a></li>
+  </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Photos & Video</li>
+    <li class="grey">$1,999</li>
+    <li>Full Event Coverage</li>
+    <li>1 Print-26x36</li>
+    <li>1 Album</li>
+    <li>1 Print-26x36</li>
+    <li>2-8x10</li>
+    <li>40-4x5</li>
+    <li>Invitations & Virtual Invitations</li>
+    <li>Unlimited Photos</li>
+    <li>Video 30min-2hour</li>
+    <li>USB</li>
+    <li class="grey"><a href="https://wanderlusttech.com/contact-us" class="button">Contact Us</a></li>
+  </ul>
+</div>
+
+</body>
+</html>
