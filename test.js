@@ -56,7 +56,11 @@ function passwd(){
       if(password.toLowerCase() == "co4242"){
         window.open("https://www.dropbox.com/sh/77jdf6k2boxiwm3/AADS-obAAmnB0l5qtyUmKuHNa?dl=0",'_blank')    
       }
-      
+    
+      if(password.toLowerCase() == "mj0608"){
+        window.open("https://www.dropbox.com/sh/4x72y4yk3ci5iyc/AAD1mHuYJGYefK6x9G7iooAGa?dl=0",'_blank')    
+      }
+    
       if(password.toLowerCase() == "ea0711"){
         window.open("https://www.dropbox.com/sh/7ql11jrdx97ihwz/AAD_EnKHym7l0J_dN_RrB3O6a?dl=0",'_blank')    
       }
