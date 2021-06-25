@@ -65,8 +65,8 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/7ql11jrdx97ihwz/AAD_EnKHym7l0J_dN_RrB3O6a?dl=0",'_blank')    
       }
       
-      if(password.toLowerCase() == "code"){
-        window.open("https://www.dropbox.com/sh/77jdf6k2boxiwm3/AADS-obAAmnB0l5qtyUmKuHNa?dl=0",'_blank')    
+      if(password.toLowerCase() == "vn0624"){
+        window.open("https://www.dropbox.com/sh/mci471x96sdg12w/AACOjjRlqWpDt4qK8-aCh3GNa?dl=0",'_blank')    
       }
       
       if(password.toLowerCase() == "cotde"){
