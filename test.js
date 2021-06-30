@@ -50,8 +50,8 @@ function passwd(){
       window.open("index.html")    
     }
 
-    if(password.toLowerCase() == "co"){
-        window.open("https://www.dropbox.com/sh/77jdf6k2boxiwm3/AADS-obAAmnB0l5qtyUmKuHNa?dl=0",'_blank')    
+    if(password.toLowerCase() == "vk2525"){
+        window.open("https://www.dropbox.com/sh/alat0n6ilp33387/AAD23sHNWc0FxLHmDFlYxDf0a?dl=0",'_blank')    
       }
       if(password.toLowerCase() == "co4242"){
         window.open("https://www.dropbox.com/sh/77jdf6k2boxiwm3/AADS-obAAmnB0l5qtyUmKuHNa?dl=0",'_blank')    
