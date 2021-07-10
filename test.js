@@ -81,6 +81,10 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/br10bf4ieccmhb8/AACTMKTv46qqgPVIcEZ7hWIba?dl=0",'_blank')    
       }
     
+    if(password.toLowerCase() == "tc0510"){
+        window.open("https://www.dropbox.com/sh/sq5jtmejna8o2ud/AACIqiTfJxBu4to35ngz7xMWa?dl=0",'_blank')    
+      }
+    
     
     if(password.toLowerCase() == "1111"){
         window.open("111",'_blank')    
