@@ -96,7 +96,7 @@ function passwd(){
       
       
       else{
-        alert("Your Password is incorrect");
+        alert("Enter the code");
          }
   }
 
