@@ -89,9 +89,13 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/zq44fti1i8zkr1t/AAAYKsjaFlrO9RkDWYaMV1IPa?dl=0",'_blank')    
       }
     
+    if(password.toLowerCase() == "mm0712"){
+        window.open("https://www.dropbox.com/sh/eotpece6ii0sdyp/AADxJMYby9GRQF54I4bFYB_ha?dl=0",'_blank')    
+      }
+    
     
     if(password.toLowerCase() == "1111"){
-        window.open("111",'_blank')    
+        window.open("1111",'_blank')    
       }
     
     if(password.toLowerCase() == "dh0623"){
