@@ -93,6 +93,14 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/eotpece6ii0sdyp/AADxJMYby9GRQF54I4bFYB_ha?dl=0",'_blank')    
       }
     
+    if(password.toLowerCase() == "is0713"){
+        window.open("https://www.dropbox.com/sh/b9uv6lx1vgzexpx/AACCoVaILJ5xfEWjxQs3imjla?dl=0",'_blank')    
+      }
+    
+    if(password.toLowerCase() == "bb0713"){
+        window.open("https://www.dropbox.com/sh/pw6narz739idx7q/AAAdBsFszM_YwGNl_k3heY6fa?dl=0",'_blank')    
+      }
+    
     
     if(password.toLowerCase() == "1111"){
         window.open("1111",'_blank')    
