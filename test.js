@@ -101,6 +101,10 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/pw6narz739idx7q/AAAdBsFszM_YwGNl_k3heY6fa?dl=0",'_blank')    
       }
     
+    if(password.toLowerCase() == "dm2814"){
+        window.open("Danniel",'_blank')    
+      }
+    
     
     if(password.toLowerCase() == "1111"){
         window.open("1111",'_blank')    
