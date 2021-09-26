@@ -116,7 +116,7 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/xtimebjkdg8nc0i/AAB7E1WvwEKtTea6AAz0QPKLa?dl=0",'Sonia&William')    
       }
     
-    if(password.toLowerCase() == "G0925"){
+    if(password.toLowerCase() == "g0925"){
         window.open("https://www.dropbox.com/sh/lyczgk9s8m8cckx/AADJ3qrCZH0YQU5NSh_0IuDxa?dl=0",'SW-Guesst')    
       }
     
