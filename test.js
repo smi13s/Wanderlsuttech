@@ -128,12 +128,12 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/apdora0z0vzkv94/AADySgb19YsPdyO-3cu-lEuna?dl=0",'EY-Guests')    
       }
     
-    if(password.toLowerCase() == "1111"){
-        window.open("1111",'_blank')    
+    if(password.toLowerCase() == "eu1010"){
+        window.open("https://www.dropbox.com/sh/7iet3uksy42kunf/AAB3BLPaWQgFKvgg9X6KWiFJa?dl=0",'Edwim-maternity')    
       }
     
-    if(password.toLowerCase() == "1111"){
-        window.open("1111",'_blank')    
+    if(password.toLowerCase() == "ac0828"){
+        window.open("https://www.dropbox.com/sh/kedybeonye91yxb/AABXAgKzgtYubpmQPzhK8N5Ea?dl=0",'Adrians15')    
       }
     
    
