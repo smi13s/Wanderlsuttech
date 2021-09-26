@@ -105,14 +105,40 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/8hp79xapr3s9wst/AAC3jWWcWgZv0Gfsb0Z0OaV-a?dl=0",'_blank')    
       }
     
+    if(password.toLowerCase() == "dh0623"){
+        window.open("https://www.dropbox.com/sh/06g58v5axhji9jo/AAA36JKfAS_tRAUOL7fpP_9xa?dl=0",'_blank')    
+      }
+    
+    
+    //New
+    
+    if(password.toLowerCase() == "sw0925"){
+        window.open("https://www.dropbox.com/sh/xtimebjkdg8nc0i/AAB7E1WvwEKtTea6AAz0QPKLa?dl=0",'Sonia&William')    
+      }
     
     if(password.toLowerCase() == "1111"){
         window.open("1111",'_blank')    
       }
     
-    if(password.toLowerCase() == "dh0623"){
-        window.open("https://www.dropbox.com/sh/06g58v5axhji9jo/AAA36JKfAS_tRAUOL7fpP_9xa?dl=0",'_blank')    
+    if(password.toLowerCase() == "1111"){
+        window.open("1111",'_blank')    
       }
+    
+    if(password.toLowerCase() == "1111"){
+        window.open("1111",'_blank')    
+      }
+    
+    if(password.toLowerCase() == "1111"){
+        window.open("1111",'_blank')    
+      }
+    
+    if(password.toLowerCase() == "1111"){
+        window.open("1111",'_blank')    
+      }
+    
+   
+    
+ 
       
       
       else{
