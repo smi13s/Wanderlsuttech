@@ -120,12 +120,12 @@ function passwd(){
         window.open("https://www.dropbox.com/sh/lyczgk9s8m8cckx/AADJ3qrCZH0YQU5NSh_0IuDxa?dl=0",'SW-Guesst')    
       }
     
-    if(password.toLowerCase() == "1111"){
-        window.open("1111",'_blank')    
+    if(password.toLowerCase() == "ey1002"){
+        window.open("https://www.dropbox.com/sh/xnbigl2qsvexzfw/AAD-AlpQcCI6wt98XihZ6E9Ta?dl=0",'ErikasSweet21')    
       }
     
-    if(password.toLowerCase() == "1111"){
-        window.open("1111",'_blank')    
+    if(password.toLowerCase() == "g1002"){
+        window.open("https://www.dropbox.com/sh/apdora0z0vzkv94/AADySgb19YsPdyO-3cu-lEuna?dl=0",'EY-Guests')    
       }
     
     if(password.toLowerCase() == "1111"){
